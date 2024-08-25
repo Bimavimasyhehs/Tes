@@ -10,6 +10,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 \`| -Mix\`
 \`| -Https\`
 \`| -Ninja\`
+\`| -STRIKE\`
 └───────────
       ≡ *𒄆DDoS Method Layer 4*🪽
 ┌─⊷
@@ -20,11 +21,11 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 conn.sendMessage(m.chat, { contextInfo: {
 externalAdReply: {
 showAdAttribution: true, 
-title: `PermenMDXDDoS`,
-body: `Cheapest DDoS Script By PermenMD`,
+title: `BIMZ`,
+body: `BIMZ`,
 mediaType: 1,  
 renderLargerThumbnail : true,
-thumbnailUrl: `https://telegra.ph/file/a60bd062bbd8c6e5377d2.png`,
+thumbnailUrl: ``,
 sourceUrl: ``
 }}, text: m2}, {quoted: m})
 	  } catch (e) {
