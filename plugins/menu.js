@@ -18,8 +18,8 @@ let handler = async (m, { conn }) => {
 conn.sendMessage(m.chat, { contextInfo: {
 externalAdReply: {
 showAdAttribution: true, 
-title: `PermenMDXDDoS`,
-body: `Cheapest DDoS Bot By PermenMD`,
+title: `BIMZ`,
+body: `BIMZ`,
 mediaType: 1,  
 renderLargerThumbnail : true,
 thumbnailUrl: ``,
