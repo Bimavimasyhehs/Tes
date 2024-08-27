@@ -16,7 +16,7 @@ const handler = async (m, { conn, command, args }) => {
   const target = args[0]
   const duration = args[1]
   const methods = args[2]
-  const details = `│ Creator: PermenMD
+  const details = `│ Creator: BIMZ
 │ Target: ${target}
 │ Methods: ${methods}
 │ Duration: ${duration}
