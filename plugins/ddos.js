@@ -33,7 +33,7 @@ renderLargerThumbnail : true,
 thumbnailUrl: `https://telegra.ph/file/aa15d66762da2caca8d5f.png`,
 sourceUrl: `https://check-host.net/check-http?host=${target}`
 }}, text: details}, {quoted: m})
-	exec(`node ./lib/PermenMD/StarsXTls.js ${target} ${duration} 100 10`)
+	exec(`node ./lib/PermenMD/StarsXTls.js ${target} ${duration} 100 10 proxy.txt`)
 } else if ( methods === 'ninja' ) {     
 conn.sendMessage(m.chat, { contextInfo: {
 externalAdReply: {
