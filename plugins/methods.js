@@ -13,6 +13,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 \`| -STRIKE\`
 \`| -flood\`
 \|| -xc\`
+\`| -xxx\`
 └───────────
       ≡ *𒄆DDoS Method Layer 4*🪽
 ┌─⊷
