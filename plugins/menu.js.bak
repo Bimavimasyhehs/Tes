@@ -1,10 +1,10 @@
 let handler = async (m, { conn }) => {
   try {
-const quotes = ['The True Power Of Sigma Skibid', 'BIMZ Never Die!', 'Merusak Lebih Menyenangkan', 'Hidup Itu Berat', 'Ngoding? Tidak Aku Hanya Copy Paste', 'Woy Ini Script Mahal', 'Hanya Yang Terbaik Yang Akan Menang', 'Bacot Bocah Bened Skillnya Itu Itu Aja', 'PUBG, ML, FF, HOK, PB, BS Edyan', 'Semakin Dewasa Semakin Gede Jir', 'Jika Punyamu Kecil Berarti Untuk Anak Kecil', 'Hey Bung Umur Hanyalah Angka', 'No Wife No Problem, Wifi Mati Banting Modem', 'Hargailah Waktu Orang Lain', 'Ideku Lebih Mahal Darimu', 'Mastah Tools!!!']
+const quotes = ['The True Power Of Sigma Skibid', 'PermenMD Never Die!', 'Merusak Lebih Menyenangkan', 'Hidup Itu Berat', 'Ngoding? Tidak Aku Hanya Copy Paste', 'Woy Ini Script Mahal', 'Hanya Yang Terbaik Yang Akan Menang', 'Bacot Bocah Bened Skillnya Itu Itu Aja', 'PUBG, ML, FF, HOK, PB, BS Edyan', 'Semakin Dewasa Semakin Gede Jir', 'Jika Punyamu Kecil Berarti Untuk Anak Kecil', 'Hey Bung Umur Hanyalah Angka', 'No Wife No Problem, Wifi Mati Banting Modem', 'Hargailah Waktu Orang Lain', 'Ideku Lebih Mahal Darimu', 'Mastah Tools!!!']
 
-    const m2 = `┏❐ \`\`\`BIMZ`\`\` ❐
+    const m2 = `┏❐ \`\`\`PermenMisc V10\`\`\` ❐
 \`\`\`- Bot Name: ${global.namebot}\`\`\`
-\`\`\`- Version: XXX\`\`\`
+\`\`\`- Version: 10\`\`\`
 ┗❐
 
 \`Tracking Command\`
